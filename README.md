@@ -5,11 +5,8 @@
 > This is NOT a full Minecraft Bedrock port to Mac. This is only a tool to tweak the iPad/iPhone version of MCBE.
 >
 > If you want to run older versions of the game, the hard limit is on 1.19.10. Older versions will not work, because 1.19.10 implemented Keyboard & Mouse on the game.
-
-> [!WARNING]
+>
 > Features like Xbox Accounts, Multiplayer, Servers, Realms, Marketplace, etc. won't work. (Will return Error Code: Drowned)
-> 
-> You will not get an IPA yourself. You have to install an Minecraft IPA yourself. This tool only tweaks your IPA so it runs on Mac normally.
 
 Minecraft Bedrock Tweaker/Patcher is a tool which edits the Info.plist strings to make Minecraft Bedrock Edition Playable on macOS.
 
