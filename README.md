@@ -1,4 +1,4 @@
-# Minecraft Bedrock Tweaker
+# Minecraft Bedrock Patcher
 
 
 > [!CAUTION]
