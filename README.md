@@ -6,7 +6,7 @@
 >
 > Features like Xbox Accounts, Multiplayer, Servers, Realms, Marketplace, etc. won't work. (Will return Error Code: Drowned)
 >
-> You will still need to sideload the app every 7 days.
+> You will still need to sideload the app every 7 days. (although patching is not neccesary)
 
 Minecraft Bedrock Tweaker/Patcher is a tool which edits the Info.plist strings to make Minecraft Bedrock Edition Playable on macOS.
 
@@ -18,7 +18,7 @@ This works very similarly like FnMacAssistant, which was a tweaker to get the iO
 - Sideloadly
 - Apple Silicon Mac (M1 or newer)
 - macOS version 15 or newer recommended
-- Minecraft Bedrock IPA, you can find most of them [here](https://archive.org/details/NL-IPAA-02).
+- Minecraft Bedrock IPA, you can find Minecraft Preview .ipa's [here](https://archive.org/details/NL-IPAA-02) (Otherwise just find an ipa website).
 
 > [!NOTE]
 > macOS version may depend more on Sideloadly's supported versions.
@@ -29,7 +29,7 @@ This works very similarly like FnMacAssistant, which was a tweaker to get the iO
 
 ## Guide
 
-After you've downloaded `mcbe_patcher.zip` from [releases](), open the app. (It will automatically ask you if you want to have it stored in Applications)
+After you've downloaded `mcbe_patcher.zip` from [releases](), open `start.sh`. 
 
 - After the app opens, drag your Minecraft.ipa onto the dropbox.
 - Click "Patch".
