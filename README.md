@@ -8,6 +8,9 @@
 >
 > You will still need to sideload the app every 7 days. (although patching is not neccesary)
 
+> [!NOTE]
+> This uses pre-compiled binaries from [here](https://github.com/iigordev/mcbe-tweak).
+
 Minecraft Bedrock Tweaker/Patcher is a tool to patch Minecraft Bedrock .ipa files to run on macOS.
 
 ## Requirements
