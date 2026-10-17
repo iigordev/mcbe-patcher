@@ -8,9 +8,7 @@
 >
 > You will still need to sideload the app every 7 days. (although patching is not neccesary)
 
-Minecraft Bedrock Tweaker/Patcher is a tool which edits the Info.plist strings to make Minecraft Bedrock Edition Playable on macOS.
-
-This works very similarly like FnMacAssistant, which was a tweaker to get the iOS version of Fortnite to run on macOS.
+Minecraft Bedrock Tweaker/Patcher is a tool to patch Minecraft Bedrock .ipa files to run on macOS.
 
 ## Requirements
 
