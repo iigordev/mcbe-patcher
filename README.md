@@ -30,15 +30,7 @@ Minecraft Bedrock Tweaker/Patcher is a tool to patch Minecraft Bedrock .ipa file
 
 ## Guide
 
-After you've downloaded `mcbe_patcher.zip` from [releases](), open `start.sh`. 
-
-- After the app opens, drag your Minecraft.ipa onto the dropbox.
-- Click "Patch".
-- You will get a new IPA in your downloads folder named "mcbe_tweaked_version.ipa".
-- Open Sideloadly.
-- Log into your Apple Account in Sideloadly.
-- Make sure your Mac is selected as the "iDevice"
-- Select the IPA, and press Start.
+Guide is in [releases.](https://github.com/iigordev/mcbe-patcher/releases/tag/0.1)
   
 > [!IMPORTANT]
 > You can press the settings icon next to the "Patch" button to change between Retina mode and no Retina mode.
